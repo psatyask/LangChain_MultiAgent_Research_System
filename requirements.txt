@@ -1,0 +1,26 @@
+# Core LLM + LangChain
+langchain>=1.0,<2.0
+langchain-core>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+langchain-community>=0.4,<0.5
+langchain-tavily>=0.2,<0.3
+langgraph>=1.0,<2.0
+
+# User Interface
+streamlit>=1.0
+
+# Tavily Native SDK
+tavily-python>=0.3
+
+# Web Scraping
+beautifulsoup4>=4.12
+readability-lxml
+trafilatura
+requests>=2.31
+lxml>=5.0
+
+# Environment Variables
+python-dotenv>=1.0
+
+# Logging / Debugging
+rich>=13.7
