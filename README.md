@@ -1,5 +1,5 @@
 
-# 🔬 Atlas — Multi-Agent AI Research Studio
+Multi-Agent AI Research Studio
 
 An AI-powered research assistant built using **LangChain, Groq, Tavily, Streamlit, and Python**.
 
