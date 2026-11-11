@@ -1,11 +1,11 @@
 
-Multi-Agent AI Research Studio
+# Multi-Agent AI Research Studio
 
 An AI-powered research assistant built using **LangChain, Groq, Tavily, Streamlit, and Python**.
 
 This project uses multiple AI components to automate the research workflow — from searching the web and extracting information to generating comprehensive research reports and evaluating their quality.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Web Search:** Uses Tavily to discover relevant articles, information, and credible sources.
 - **Intelligent Web Scraping:** Extracts readable webpage content using BeautifulSoup, Trafilatura, and Readability.
